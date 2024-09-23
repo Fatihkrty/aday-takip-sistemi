@@ -6,9 +6,9 @@ Bu proje insan kaynakları firmalarının adaylarını, firmalarını takip etme
 
 Projeye ait frontend ve server repolarına buradan erişebilirsiniz.
 
-[Proje Frontend Linki](https://github.com/Fatihkrty)
+[Proje Frontend Linki](https://github.com/Fatihkrty/aday-takip-sistemi-client)
 
-[Proje Backend Linki](https://github.com/Fatihkrty)
+[Proje Backend Linki](https://github.com/Fatihkrty/aday-takip-sistemi-server)
 
 ## Proje Bölümleri
 
